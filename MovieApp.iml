@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/base-services" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/base-services-groovy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/build-cache" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/build-cache-http" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/build-cache-packaging" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/build-events" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/build-init" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/build-operations" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/build-option" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/code-quality" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/composite-builds" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/configuration-cache" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/core" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/core-api" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/dependency-management" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/diagnostics" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/enterprise" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/execution" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/file-collections" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/file-watching" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/ide" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/ide-native" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/installation-beacon" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/ivy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/javascript" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/kotlin-dsl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/kotlin-dsl-provider-plugins" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/kotlin-dsl-tooling-builders" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/kotlin-dsl-tooling-models" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/language-groovy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/language-java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/language-jvm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/language-native" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/language-scala" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/launcher" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/logging" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/maven" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/messaging" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/model-core" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/model-groovy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/native" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/normalization-java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/persistent-cache" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/platform-base" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/platform-jvm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/platform-native" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/platform-play" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/plugin-development" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/plugin-use" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/plugins" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/process-services" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/publish" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/reporting" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/resources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/resources-gcs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/resources-http" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/resources-s3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/resources-sftp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/signing" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/snapshots" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/test-kit" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/testing-base" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/testing-junit-platform" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/testing-jvm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/testing-native" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/tooling-api" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/tooling-api-builders" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/tooling-native" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/version-control" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/worker-processes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapper/dists/gradle-6.7-all/cuy9mc7upwgwgeb72wkcrupxe/gradle-6.7/src/workers" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
